@@ -52,3 +52,13 @@ When sample ID "1273" is selected
 <img width="1251" alt="sample_1273" src="https://github.com/hatkiet/belly-button-challenge/assets/154276115/b39d03e3-609d-453e-b3ea-8faeeee182c0">
 
 [7] Deployed the app to a free static page hosting service, such as GitHub Pages. Submited the links to our deployment and our GitHub repo. 
+
+**Advanced Challenge Assignment (Optional with no extra points earning)**
+
+The following task is advanced and therefore optional.
+
+Adapt the Gauge Chart from https://plot.ly/javascript/gauge-charts/. to plot the weekly washing frequency of the individual.
+
+You will need to modify the example gauge code to account for values ranging from 0 through 9.
+
+Update the chart whenever a new sample is selected.
