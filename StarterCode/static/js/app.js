@@ -105,7 +105,8 @@ function bubbleChart(sample){
         // Set the layout
         let layout = {
             title: "Bacteria per sample",
-            xaxis: {title: "OTU ID"}
+            xaxis: {title: "OTU ID"},
+            hovermode: "closest"
         };
         
         //Render the plot to the div tag with id "bubble"
