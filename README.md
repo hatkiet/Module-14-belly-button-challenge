@@ -51,7 +51,7 @@ When sample ID "940" is selected
 When sample ID "1273" is selected
 <img width="1251" alt="sample_1273" src="https://github.com/hatkiet/belly-button-challenge/assets/154276115/b39d03e3-609d-453e-b3ea-8faeeee182c0">
 
-[7] Deployed the app to a free static page hosting service, such as GitHub Pages. Submited the links to our deployment and our GitHub repo. 
+[7] Deployed the app to a free static page hosting service, such as GitHub Pages. Here is the deployment link: https://hatkiet.github.io/belly-button-challenge/  
 
 **Advanced Challenge Assignment (Optional with no extra points earning)**
 
